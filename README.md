@@ -19,9 +19,18 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
