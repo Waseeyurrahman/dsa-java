@@ -7,6 +7,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -16,6 +17,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -24,6 +26,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -36,6 +39,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
