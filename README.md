@@ -22,6 +22,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
@@ -48,4 +49,9 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
