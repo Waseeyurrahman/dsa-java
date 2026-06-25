@@ -9,6 +9,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +29,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -58,4 +61,20 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
