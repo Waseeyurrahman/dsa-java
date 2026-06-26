@@ -25,6 +25,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
@@ -40,11 +41,13 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 ## Math
