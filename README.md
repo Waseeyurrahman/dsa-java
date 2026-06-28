@@ -30,6 +30,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Waseeyurrahman/dsa-java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
@@ -91,6 +92,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Waseeyurrahman/dsa-java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
