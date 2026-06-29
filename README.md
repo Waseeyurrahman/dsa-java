@@ -10,6 +10,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -19,6 +20,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -116,5 +118,6 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
