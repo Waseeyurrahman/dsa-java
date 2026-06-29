@@ -35,6 +35,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -88,6 +89,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -95,4 +97,12 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0118-pascals-triangle](https://github.com/Waseeyurrahman/dsa-java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
