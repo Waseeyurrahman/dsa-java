@@ -6,6 +6,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
@@ -13,6 +14,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
@@ -58,6 +60,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
