@@ -9,6 +9,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -16,6 +17,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -57,6 +59,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
