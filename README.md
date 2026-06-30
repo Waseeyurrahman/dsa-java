@@ -48,6 +48,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Waseeyurrahman/dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
