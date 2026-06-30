@@ -50,6 +50,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -122,6 +123,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
