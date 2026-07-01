@@ -41,6 +41,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Waseeyurrahman/dsa-java/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Waseeyurrahman/dsa-java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
