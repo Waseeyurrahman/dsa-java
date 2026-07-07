@@ -95,6 +95,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
