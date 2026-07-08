@@ -33,6 +33,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
