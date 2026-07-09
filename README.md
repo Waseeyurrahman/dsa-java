@@ -23,6 +23,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Waseeyurrahman/dsa-java/tree/master/0389-find-the-difference) |
@@ -95,6 +96,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -113,6 +115,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,5 +164,6 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Waseeyurrahman/dsa-java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
