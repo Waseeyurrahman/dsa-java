@@ -95,6 +95,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Waseeyurrahman/dsa-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
