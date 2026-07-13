@@ -64,6 +64,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Waseeyurrahman/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1288-remove-covered-intervals](https://github.com/Waseeyurrahman/dsa-java/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -153,6 +154,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Waseeyurrahman/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
