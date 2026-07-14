@@ -62,6 +62,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0228-summary-ranges](https://github.com/Waseeyurrahman/dsa-java/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +117,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -154,6 +157,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0035-search-insert-position](https://github.com/Waseeyurrahman/dsa-java/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
