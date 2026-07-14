@@ -63,6 +63,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
@@ -158,6 +159,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0074-search-a-2d-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
