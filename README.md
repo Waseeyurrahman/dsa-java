@@ -65,6 +65,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -116,6 +117,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -147,6 +149,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -156,6 +159,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0118-pascals-triangle](https://github.com/Waseeyurrahman/dsa-java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Waseeyurrahman/dsa-java/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +171,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Waseeyurrahman/dsa-java/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
