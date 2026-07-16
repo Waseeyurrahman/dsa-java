@@ -75,6 +75,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Waseeyurrahman/dsa-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Waseeyurrahman/dsa-java/tree/master/1288-remove-covered-intervals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Waseeyurrahman/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Waseeyurrahman/dsa-java/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -174,6 +175,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Waseeyurrahman/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Waseeyurrahman/dsa-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Waseeyurrahman/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Waseeyurrahman/dsa-java/tree/master/1539-kth-missing-positive-number) |
 ## Sliding Window
 |  |
 | ------- |
