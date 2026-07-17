@@ -65,6 +65,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
@@ -149,6 +150,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Waseeyurrahman/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -196,4 +198,8 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | ------- |
 | [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Waseeyurrahman/dsa-java/tree/master/0389-find-the-difference) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
