@@ -13,6 +13,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Waseeyurrahman/dsa-java/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Waseeyurrahman/dsa-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -67,6 +68,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0240-search-a-2d-matrix-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -202,4 +204,12 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
