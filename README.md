@@ -204,12 +204,19 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
