@@ -69,6 +69,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -209,11 +210,13 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
