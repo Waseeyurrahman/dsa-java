@@ -53,6 +53,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Waseeyurrahman/dsa-java/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Waseeyurrahman/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0015-3sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Waseeyurrahman/dsa-java/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Waseeyurrahman/dsa-java/tree/master/0242-valid-anagram) |
