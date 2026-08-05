@@ -209,12 +209,14 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Waseeyurrahman/dsa-java/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Waseeyurrahman/dsa-java/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Waseeyurrahman/dsa-java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
