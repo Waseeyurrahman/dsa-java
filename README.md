@@ -231,4 +231,8 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Waseeyurrahman/dsa-java/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Waseeyurrahman/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
