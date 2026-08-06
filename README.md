@@ -119,6 +119,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0048-rotate-image](https://github.com/Waseeyurrahman/dsa-java/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Waseeyurrahman/dsa-java/tree/master/0067-add-binary) |
 | [1903-largest-odd-number-in-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -235,4 +236,8 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Waseeyurrahman/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
