@@ -17,6 +17,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Waseeyurrahman/dsa-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Waseeyurrahman/dsa-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -85,6 +86,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [1539-kth-missing-positive-number](https://github.com/Waseeyurrahman/dsa-java/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Waseeyurrahman/dsa-java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Waseeyurrahman/dsa-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -198,6 +200,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Waseeyurrahman/dsa-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Waseeyurrahman/dsa-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
 | ------- |
