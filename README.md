@@ -240,4 +240,8 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Waseeyurrahman/dsa-java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
