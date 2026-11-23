@@ -15,6 +15,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Waseeyurrahman/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Waseeyurrahman/dsa-java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Waseeyurrahman/dsa-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Waseeyurrahman/dsa-java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Waseeyurrahman/dsa-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Waseeyurrahman/dsa-java/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -79,6 +80,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0704-binary-search](https://github.com/Waseeyurrahman/dsa-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Waseeyurrahman/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Waseeyurrahman/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Waseeyurrahman/dsa-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Waseeyurrahman/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -165,6 +167,7 @@ Data Structures and Algorithms practice in Java with explanations and optimized 
 | [0303-range-sum-query-immutable](https://github.com/Waseeyurrahman/dsa-java/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Waseeyurrahman/dsa-java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Waseeyurrahman/dsa-java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Waseeyurrahman/dsa-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Waseeyurrahman/dsa-java/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Waseeyurrahman/dsa-java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Waseeyurrahman/dsa-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
